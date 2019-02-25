@@ -8,8 +8,8 @@ class App extends Component {
 
         return (
             <div className="App">
-                <h1>Conway's Game of Life</h1>
-                <h2>By Karli - Made with React</h2>
+                <h1> Conway's Game of Life </h1>
+                <h2> By Karli - Made with React</h2>
                 <Game />
             </div>
         );
